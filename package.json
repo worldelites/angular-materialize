@@ -1,5 +1,6 @@
 {
   "name": "angular-materialize",
+  "version": "0.1",
   "description": "Angularjs directives for Materialize CSS Framework",
   "author": "@krescruz",
   "devDependencies": {
